@@ -1,2 +1,2 @@
 # Data-Science
-Repository for all my data science projects.
+Repository for all data science and spatial data science projects.
